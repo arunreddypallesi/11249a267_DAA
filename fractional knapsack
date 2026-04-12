@@ -54,7 +54,7 @@ int main()
         }
         else
         {
-            total_pi += items[i].profit_ratio * capacity;
+            total_pi += items[i].ratio * capacity;
             break;
         }
     }
