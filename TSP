@@ -29,7 +29,7 @@ int g(int i, int s)
             }
         }
     }
-    return dp[i][S] = mincost;
+    return dp[i][s] = mincost;
 }
 
 int main()
